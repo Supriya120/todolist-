@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Todo App (React + TypeScript + Vite)
 
 A minimal CRUD todo app.
@@ -33,3 +34,6 @@ todo-app/
 
 All the todo logic (add, toggle, edit, delete) is in `src/App.tsx`,
 with comments explaining each step.
+=======
+# todolist-
+>>>>>>> 3cb0d95b55ec53aafa5d07eb0d496c229489b4a6
